@@ -168,14 +168,16 @@ https://github.com/rdpeng/RepData_PeerAssessment1
 ```
 --------------------------------------------------------------------------------
 ##Reproducible Research Project1 - by Raja.J
-##Contents
-###1.PA1_template.rmd 
-###2.PA1_template.md
-###3.PA1_template.html
-###4.Folder figure/ containing the following png files
-####	4.1 unnamed-chunk-5-1
-####	4.2 unnamed-chunk-7-1
-####	4.3 unnamed-chunk-12-1
-####	4.4 unnamed-chunk-14-1
 
-####Note: The *.md, *.html, figure folder with png files have been generated with knitr::knit2html()
+##Contents
+
+##1.PA1_template.rmd 
+##2.PA1_template.md
+##3.PA1_template.html
+##4.Folder figure/ containing the following png files
+##	4.1 unnamed-chunk-5-1
+##	4.2 unnamed-chunk-7-1
+##	4.3 unnamed-chunk-12-1
+##	4.4 unnamed-chunk-14-1
+
+## Note: The *.md, *.html, figure folder with png files have been generated with knitr::knit2html()
